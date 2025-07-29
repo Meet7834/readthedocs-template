@@ -43,6 +43,7 @@ Documentation:
   enums
   errors
   session
+  subprojects
 
 Additional Documentation
 ========================
